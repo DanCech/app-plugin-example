@@ -29,6 +29,9 @@
       {"name": "Project site", "url": "http://project.com"},
       {"name": "License & Terms", "url": "http://license.com"}
     ],
+    "screenshots": [
+      {"name": "Dashboard 1", "path": "img/screenshot_dashboard1.png"}
+    ],
     "version": "1.0.0",
     "updated": "2015-02-10"
   },
